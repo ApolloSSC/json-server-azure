@@ -1,0 +1,14 @@
+{
+  "name": "json-server-azure",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "fake-api": "json-server --watch db.json"
+  },
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.12.0",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {}
+}
